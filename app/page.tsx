@@ -17,7 +17,7 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-2">Projects:</h2>
           <ul className="list-disc ml-5">
             <li>NextStep (Internship Management Platform)</li>
-            <li>Air Quality Control System (Machine Learning)</li>
+            <li>Aetheris (Air Quality Control System)</li>
           </ul>
         </div>
       </div>
